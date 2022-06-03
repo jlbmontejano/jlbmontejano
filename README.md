@@ -4,7 +4,7 @@
 
 💻 Languages: Python, SQL, HTML, CSS and JavaScript
 
-💻 Technologies: PostgreSQL, React, NodeJS
+💻 Technologies: PostgreSQL, ReactJS, NodeJS
 
 <!---
 jlbmontejano/jlbmontejano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
