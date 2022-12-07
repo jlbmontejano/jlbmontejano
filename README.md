@@ -2,9 +2,9 @@
 
 🙂 A little personal stuff about myself: I've always had a fascination for numbers, logic, sudokus, puzzles, brain teasers, etc. My others hobbies are music, gardening and gaming.
 
-💻 Languages: Python, SQL, HTML, CSS and JavaScript
+💻 Languages: Swift, Python, SQL, HTML, CSS and JavaScript
 
-💻 Technologies: PostgreSQL, ReactJS, NodeJS
+💻 Technologies: SwiftUI, PostgreSQL, ReactJS, NodeJS
 
 <!---
 jlbmontejano/jlbmontejano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
