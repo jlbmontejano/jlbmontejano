@@ -2,9 +2,12 @@
 
 🙂 About myself: I've always had a fascination for numbers, logic, sudokus, puzzles, brain teasers, etc. My others hobbies are music, gardening and gaming.
 
-💻 Languages: TypeScript, JavaScript, HTML, CSS, SQL 
+💻 Languages: TypeScript, JavaScript, HTML, CSS, SQL
+
 💻 Frameworks & Libraries: React, Vue, Node.js, Express, TailwindCSS, Prisma 
+
 💻 Databases: PostgreSQL 
+
 💻 Tools & Platforms: Git, Google Cloud Platform, CI/CD, REST APIs 
 
 <!---
